@@ -1,0 +1,18 @@
+About
+This is simple Java Program for lurking purposes.
+
+This is text editor. You can type text on it. No saving future. You can change font, color and size. This changes will effect on existing text and will be saved automatically.
+
+The purpose of this program was to learn Java serialization
+
+How To Run
+
+1 Select Download tab in the Github
+2 Download as ZIP
+3 Open Eclipse > Import > Existing Projects Into Workspace >  4 Archive and select archive "boryur-TextEdior-71edcfc.zip"
+5 Select the folder Lesson17byBY and click run green button
+6 Choose Java application
+
+Enjoy!
+
+PS The app can show one yellow warning. Don't bother about this. 
